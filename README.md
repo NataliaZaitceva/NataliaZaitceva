@@ -17,6 +17,6 @@
 <li><img src='https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black'/></li>
 <li><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/></li>
 </ul>
-<a target="_blank" href="https://icons8.com/icon/ZRnW1FKl7Mh9/входящий-конверт">Входящий конверт</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a><h3>Связаться со мной</h3>
+<h3>Связаться со мной</h3>
 <a href='https://t.me/nataliezaitceva'>Телеграм</a>
 <p>sfk89@yandex.ru</p>
